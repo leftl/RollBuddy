@@ -43,7 +43,6 @@ jobs:
         with:
           node-version: "17"
           cache: "npm"
-          cache-dependency-path: package-lock.json
       - name: Install deps and run tests
         run: |
           npm install
