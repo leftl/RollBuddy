@@ -42,7 +42,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "17"
-          cache: "npm"
       - name: Install deps and run tests
         run: |
           npm install
