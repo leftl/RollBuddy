@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<style>
+  .attribute {
+    outline: auto;
+    outline-width: 1em;
+    width: auto;
+    padding: 10px;
+    /* position: relative;
+    display: inline-block; */
+    /* display: flex;
+    justify-content: baseline;
+    align-items: center; */
+    width: 124px;
+    height: 124px;
+    margin: 10px;
+  }
+
+  .attribute-input {
+    outline: auto;
+    outline-width: 1em;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .styledTextInput {
+    width: 60px;
+    height: 20px;
+    padding: 1px;
+  }
+</style>
+<html lang="en">
+  <head>
+    <title>Templates</title>
+  </head>
+  <body>
+    <h1>Attribute</h1>
+    <div class="attribute">
+      <div class="attribute-name" style="font-size: 110%; margin: 1rem">
+        Strength
+      </div>
+      <div class="attribute-input">
+        <input type="text" class="styledTextInput" />
+        <button>-</button>
+        <button>+</button>
+      </div>
+    </div>
+  </body>
+</html>

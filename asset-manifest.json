@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RollBuddy/static/css/main.073c9b0a.css",
+    "main.js": "/RollBuddy/static/js/main.de8ec04e.js",
+    "static/media/logo.svg": "/RollBuddy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RollBuddy/index.html",
+    "main.073c9b0a.css.map": "/RollBuddy/static/css/main.073c9b0a.css.map",
+    "main.de8ec04e.js.map": "/RollBuddy/static/js/main.de8ec04e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.de8ec04e.js"
+  ]
+}
